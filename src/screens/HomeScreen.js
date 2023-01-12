@@ -1,5 +1,5 @@
 import React from "react";
-import "../views/HomeScreen.css";
+import "../screens/HomeScreen.css";
 import NavBar from "../components/NavBar";
 import Banner from "../components/Banner";
 import Row from "../components/Row.js";
